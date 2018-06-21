@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "CRA Node Boilerplate for a Monorepo React Client + Node API",
   "main": "index.js",
-  "dependencies": {
-    "express": "^4.16.3"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon index.js"
+    "start-server": "nodemon cd server/index.js",
+    "start-client": "cd src/client && npm run start"
   },
   "repository": {
     "type": "git",
