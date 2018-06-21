@@ -1,0 +1,23 @@
+{
+  "name": "cra-node-boilerplate",
+  "version": "1.0.0",
+  "description": "CRA Node Boilerplate for a Monorepo React Client + Node API",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharymorel/CRA-Node-Boilerplate.git"
+  },
+  "author": "Zach Morel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacharymorel/CRA-Node-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/zacharymorel/CRA-Node-Boilerplate#readme"
+}
