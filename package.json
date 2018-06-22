@@ -2,7 +2,6 @@
   "name": "cra-node-boilerplate",
   "version": "1.0.0",
   "description": "CRA Node Boilerplate for a Monorepo React Client + Node API",
-  "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "eslint": "^4.19.1"
