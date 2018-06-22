@@ -1,5 +1,5 @@
-# React-Boilerplate
-This is my react-node-boilerplate
+# React-Node-Boilerplate
+Ideal for those whom like to have the server and client live in the same repo as a monorepo. 
 
 ## Setup
 - npm run install-all
