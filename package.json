@@ -8,10 +8,10 @@
     "eslint": "^4.19.1"
   },
   "scripts": {
-    "npm-i-client": "cd src/client && npm i",
-    "npm-i-server": "cd src/server && npm i",
-    "npm-install-all": "npm i && npm run npm-i-client && npm run npm-i-server",
-    "start-server": "nodemon cd server/index.js",
+    "i-client": "cd src/client && npm i",
+    "i-server": "cd src/server && npm i",
+    "install-all": "npm i && npm run i-client && npm run i-server",
+    "start-server": "nodemon cd src/server/index.js",
     "start-client": "cd src/client && npm run start"
   },
   "repository": {
